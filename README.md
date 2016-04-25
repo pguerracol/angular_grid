@@ -1,3 +1,3 @@
 # angular_grid
-Demo de grids en angular con servicios rest
+Demo de grid en angularJS con servicios rest
 AngularJS + restapi + mysql
